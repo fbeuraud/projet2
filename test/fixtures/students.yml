@@ -1,11 +1,11 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  name: MyString
+  name: Joe
   surname: MyString
-  birthdate: 2016-09-20
+  birthdate: 1980-09-20
 
 two:
-  name: MyString
+  name: Bill
   surname: MyString
-  birthdate: 2016-09-20
+  birthdate: 2000-09-20
